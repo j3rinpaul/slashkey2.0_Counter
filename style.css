@@ -31,7 +31,10 @@ background: linear-gradient(124deg, rgba(18,147,238,1) 8%, rgba(19,18,31,1) 100%
   text-align: center;
   width: 100%;
   z-index: 2;
+  margin-top: -75px;
 }
+
+
 
 
 .timer-container {
@@ -40,6 +43,8 @@ background: linear-gradient(124deg, rgba(18,147,238,1) 8%, rgba(19,18,31,1) 100%
 
 .timer-container span {
   white-space: nowrap;
+  font-size: 150px;
+  font-weight: 900;
 }
 
 #content {
